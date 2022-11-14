@@ -1,0 +1,7 @@
+data/**
+idea-module-files/**
+temp/**
+log/**
+.idea/**
+bin/platform/**
+bin/modules/**
